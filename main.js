@@ -1524,7 +1524,7 @@
                 'selectedMeatTypes': ['1', '2', '3', '4', '7', '8', '10', '11', '12', '13', '14', '15'],
                 'minSausages': 2,
                 'maxSausages': 4,
-                'sausageExtended': false,
+                'sausageExtended': true,
 
                 'selectedVeggieSausageTypes': [... allVeggies],
                 'minVeggieSausages': 0,
@@ -1540,13 +1540,13 @@
 
                 'doughTypes': doughTypes,
                 'selectedDoughTypes': ['9', '10', '11', '12'],
-                'doughExtended': false,
+                'doughExtended': true,
 
                 'cheeseTypes': cheeseTypes,
                 'selectedCheeseTypes': ['25', '26', '27', '28'],
                 'minCheese': 0,
                 'maxCheese': 3,
-                'cheeseExtended': false,
+                'cheeseExtended': true,
 
                 'fishTypes': fishTypes,
                 'selectedFishTypes': [... allFish],
@@ -1554,7 +1554,7 @@
                 'selectedFishModifierTypes': [... allFishModifiers],
                 'minFish': 0,
                 'maxFish': 3,
-                'fishExtended': false,
+                'fishExtended': true,
 
                 'minFries': 0,
                 'maxFries': 1,
@@ -1576,25 +1576,25 @@
                 'selectedHerbTypes': [... allHerbs],
                 'minHerbs': 0,
                 'maxHerbs': 3,
-                'herbExtended': false,
+                'herbExtended': true,
 
                 'vegetableTypes': veggieTypes,
                 'selectedVegetableTypes': [... allVeggies],
                 'minVegetables': 0,
                 'maxVegetables': 3,
-                'vegetableExtended': false,
+                'vegetableExtended': true,
 
                 'spiceTypes': spiceTypes,
                 'selectedSpiceTypes': [... allSpices],
                 'minSpices': 0,
                 'maxSpices': 3,
-                'spiceExtended': false,
+                'spiceExtended': true,
 
                 'nutTypes': nutTypes,
                 'selectedNutTypes': [... allNuts],
                 'minNuts': 0,
                 'maxNuts': 0,
-                'nutExtended': false,
+                'nutExtended': true,
                 
                 'minIngredients': 5,
                 'targetSkill': 109,
