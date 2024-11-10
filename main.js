@@ -1536,7 +1536,7 @@
                 'selectedMeatModifierTypes': [... allMeatModifiers],
                 'minMeat': 0,
                 'maxMeat': 3,
-                'meatExtended': false,
+                'meatExtended': true,
 
                 'doughTypes': doughTypes,
                 'selectedDoughTypes': ['9', '10', '11', '12'],
