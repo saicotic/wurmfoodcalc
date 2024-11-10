@@ -816,7 +816,7 @@
                     <option value="28">Buffalo Cheese +87</option>
                     <option value="26">Cheese +84</option>
                     <option value="27">Feta Cheese +86</option>
-                    <option value="25">Goat Cheese +85</option>
+  //                  <option value="25">Goat Cheese +85</option>
                 </optgroup>
                 <optgroup label="Fruit">
                     <option value="55">Blue Grapes +9</option>
