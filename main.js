@@ -1524,7 +1524,7 @@
                 'selectedMeatTypes': ['1', '2', '3', '4', '7', '8', '10', '11', '12', '13', '14', '15'],
                 'minSausages': 2,
                 'maxSausages': 4,
-                'sausageExtended': true,
+                'sausageExtended': false,
 
                 'selectedVeggieSausageTypes': [... allVeggies],
                 'minVeggieSausages': 0,
@@ -1540,13 +1540,13 @@
 
                 'doughTypes': doughTypes,
                 'selectedDoughTypes': ['9', '10', '11', '12'],
-                'doughExtended': true,
+                'doughExtended': false,
 
                 'cheeseTypes': cheeseTypes,
                 'selectedCheeseTypes': ['25', '26', '27', '28'],
                 'minCheese': 0,
                 'maxCheese': 3,
-                'cheeseExtended': true,
+                'cheeseExtended': false,
 
                 'fishTypes': fishTypes,
                 'selectedFishTypes': [... allFish],
@@ -1576,19 +1576,19 @@
                 'selectedHerbTypes': [... allHerbs],
                 'minHerbs': 0,
                 'maxHerbs': 3,
-                'herbExtended': true,
+                'herbExtended': false,
 
                 'vegetableTypes': veggieTypes,
                 'selectedVegetableTypes': [... allVeggies],
                 'minVegetables': 0,
                 'maxVegetables': 3,
-                'vegetableExtended': true,
+                'vegetableExtended': false,
 
                 'spiceTypes': spiceTypes,
                 'selectedSpiceTypes': [... allSpices],
                 'minSpices': 0,
                 'maxSpices': 3,
-                'spiceExtended': true,
+                'spiceExtended': false,
 
                 'nutTypes': nutTypes,
                 'selectedNutTypes': [... allNuts],
